@@ -93,6 +93,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Plugins
 
+- [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) basic tmux settings everyone can agree on
 - [tmux2html](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 - [tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 - [extrakto](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
